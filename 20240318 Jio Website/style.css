@@ -57,6 +57,21 @@ a {
     align-items: center;
     justify-content: center;
 }
+.new{
+    height: 18px;
+    width: 50px;
+    background-color: red;
+    border-radius: 20px;
+    font-size: 10px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 600;
+    position: absolute;
+    margin-top: -22px;
+    margin-left: 356px;
+}
 /* Nav Bar 2 */
 .nav-bar2{
     height: 40px;
